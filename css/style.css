@@ -1,6 +1,21 @@
+body{
+    background-color: silver;
+}
+
 #image{
     max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+#title, #img-caption{
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#img-caption{
+    padding-bottom: 50px;
 }
